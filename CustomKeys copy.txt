@@ -149,18 +149,18 @@ Hotkey=U
 
 //dragonhawk
 [hdhw]
-Hotkey=B
-Tip=Train Dragonhawk Rider (|cffffcc00B|r)
+Hotkey=222
+Tip=Train Dragonhawk Rider (|cffffcc00É|r)
 
 // Aerial Shackles
 [Amls]
-Tip=Aerial Shackles (|cffffcc00À|r)
-Hotkey=220
+Tip=Aerial Shackles (|cffffcc00B|r)
+Hotkey=B
 
 // Cloud
 [Aclf]
-Tip=Cloud (|cffffcc00Y|r)
-Hotkey=Y
+Tip=Cloud (|cffffcc00É|r)
+Hotkey=222
 
 //footman
 [hfoo]
@@ -169,10 +169,10 @@ Tip=Train Footman (|cffffcc00B|r)
 
 // Defend
 [Adef]
-Tip=Defend (|cffffcc00À|r)
-Untip=Stop Defend (|cffffcc00À|r)
-Hotkey=220
-Unhotkey=220
+Tip=Defend (|cffffcc00B|r)
+Untip=Stop Defend (|cffffcc00B|r)
+Hotkey=B
+Unhotkey=B
 
 //flying machine
 [hgyr]
@@ -184,11 +184,6 @@ Tip=Train Flying Machine (|cffffcc00B|r)
 Hotkey=P
 Tip=Train Knight (|cffffcc00P|r)
 
-// sundering blades
-[Rhsb]
-Tip=Research Sundering blades (|cffffcc00I|r)
-Hotkey=I
-
 //priest
 [hmpr]
 Hotkey=222
@@ -196,22 +191,22 @@ Tip=Train Priest (|cffffcc00É|r)
 
 // Inner Fire
 [Ainf]
-Tip=Inner Fire (|cffffcc00X|r)
+Tip=Inner Fire (|cffffcc00P|r)
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=X
-Unhotkey=X
+Hotkey=P
+Unhotkey=P
 
 // Heal
 [Ahea]
-Tip=Heal (|cffffcc00À|r)
+Tip=Heal (|cffffcc00B|r)
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=220
-Unhotkey=220
+Hotkey=B
+Unhotkey=B
 
 // Dispel Magic
 [Adis]
-Tip=Dispel Magic (|cffffcc00Y|r)
-Hotkey=Y
+Tip=Dispel Magic (|cffffcc00É|r)
+Hotkey=222
 
 //mortar team
 [hmtm]
@@ -220,8 +215,8 @@ Tip=Train Mortar Team (|cffffcc00É|r)
 
 // Flare
 [Afla]
-Tip=Flare (|cffffcc00À|r)
-Hotkey=220
+Tip=Flare (|cffffcc00B|r)
+Hotkey=B
 
 //peasant
 [hpea]
@@ -254,20 +249,20 @@ Tip=Train Sorceress (|cffffcc00B|r)
 
 // Slow
 [Aslo]
-Tip=Slow (|cffffcc00À|r)
+Tip=Slow (|cffffcc00B|r)
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=220
-Unhotkey=220
+Hotkey=B
+Unhotkey=B
 
 // Polymorph
 [Aply]
-Tip=Polymorph (|cffffcc00X|r)
-Hotkey=X
+Tip=Polymorph (|cffffcc00P|r)
+Hotkey=P
 
 // Invisibility
 [Aivs]
-Tip=Invisibility (|cffffcc00Y|r)
-Hotkey=Y
+Tip=Invisibility (|cffffcc00É|r)
+Hotkey=222
 
 //spell breaker
 [hspt]
@@ -276,20 +271,20 @@ Tip=Train Spell Breaker (|cffffcc00P|r)
 
 // Spell Steal
 [Asps]
-Tip=Spell Steal (|cffffcc00À|r)
+Tip=Spell Steal (|cffffcc00B|r)
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=220
-Unhotkey=220
+Hotkey=B
+Unhotkey=B
 
 // Control Magic
 [Acmg]
-Tip=Control Magic (|cffffcc00Y|r)
-Hotkey=Y
+Tip=Control Magic (|cffffcc00É|r)
+Hotkey=222
 
 //siege engine (without barrage)
 [hmtt]
-Hotkey=I
-Tip=Train Siege Engine (|cffffcc00I|r)
+Hotkey=P
+Tip=Train Siege Engine (|cffffcc00P|r)
 
 //siege engine (with barrage)
 [hrtt]
@@ -298,8 +293,8 @@ Tip=Train Siege Engine (|cffffcc00P|r)
 
 //gryphon rider
 [hgry]
-Hotkey=222
-Tip=Train Gryphon Rider (|cffffcc00É|r)
+Hotkey=B
+Tip=Train Gryphon Rider (|cffffcc00B|r)
 
 /////////////////////////////
 //Human Bldgs, Upgrades & Abilities
@@ -337,8 +332,8 @@ Hotkey=222,222,222
 
 //flying machine bombs
 [Rhgb]
-Tip=Research Flying Machine Bombs (|cffffcc00A|r)
-Hotkey=A
+Tip=Research Flying Machine Bombs (|cffffcc00À|r)
+Hotkey=220
 
 //improved lumber harvesting upgrades
 [Rhlh]
@@ -382,8 +377,8 @@ Hotkey=Y
 
 //storm hammers upgrade
 [Rhhb]
-Tip=Research Storm Hammers (|cffffcc00Y|r)
-Hotkey=Y
+Tip=Research Storm Hammers (|cffffcc00À|r)
+Hotkey=220
 
 //barrage upgrade
 [Rhrt]
@@ -397,8 +392,8 @@ Hotkey=O
 
 //flak cannons upgrade
 [Rhfc]
-Tip=Research Flak Cannons (|cffffcc00À|r)
-Hotkey=220
+Tip=Research Flak Cannons (|cffffcc00A|r)
+Hotkey=A
 
 //frag shards upgrade
 [Rhfs]
@@ -407,8 +402,8 @@ Hotkey=U
 
 //cloud upgrade
 [Rhcd]
-Tip=Research Cloud (|cffffcc00À|r)
-Hotkey=220
+Tip=Research Cloud (|cffffcc00Y|r)
+Hotkey=Y
 
 //altar of kings
 [halt]
@@ -2939,7 +2934,7 @@ Hotkey=E
 Tip=Purchase Orb of Fire (|cffffcc00À|r)
 Hotkey=220
 
-[oslo]
+[sorf]
 Tip=Orb of Slow (|cffffcc00À|r)
 Hotkey=220
 
