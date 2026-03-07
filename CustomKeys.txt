@@ -513,8 +513,8 @@ Researchbuttonpos=1,0
 
 // Banish
 [AHbn]
-Tip=Banish (|cffffcc00B|r) - [|cffffcc00Level 1|r],Banish (|cffffcc00B|r) - [|cffffcc00Level 2|r],Banish (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Banish (|cffffcc00À|r) - [|cffffcc00Level 1|r],Banish (|cffffcc00À|r) - [|cffffcc00Level 2|r],Banish (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Banish (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 Buttonpos=0,2
@@ -522,8 +522,8 @@ Researchbuttonpos=0,0
 
 // Summon Phoenix
 [AHpx]
-Tip=Phoenix (|cffffcc00O|r)
-Hotkey=O
+Tip=Phoenix (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Phoenix (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -536,16 +536,16 @@ Awakentip=Revive Archmage (|cffffcc00À|r)
 
 // Blizzard
 [AHbz]
-Tip=Blizzard (|cffffcc00B|r) - [|cffffcc00Level 1|r],Blizzard (|cffffcc00B|r) - [|cffffcc00Level 2|r],Blizzard (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Blizzard (|cffffcc00À|r) - [|cffffcc00Level 1|r],Blizzard (|cffffcc00À|r) - [|cffffcc00Level 2|r],Blizzard (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Blizzard (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Summon Water Elemental
 [AHwe]
-Tip=Summon Water Elemental (|cffffcc00É|r) - [|cffffcc00Level 1|r],Summon Water Elemental (|cffffcc00É|r) - [|cffffcc00Level 2|r],Summon Water Elemental (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=Summon Water Elemental (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Summon Water Elemental (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Summon Water Elemental (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Researchtip="Learn Summon Water Elemental (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
-Hotkey=222
+Hotkey=Y
 Researchhotkey=222
 
 // Brilliance Aura
@@ -556,8 +556,8 @@ Researchhotkey=P
 
 // Mass Teleport
 [AHmt]
-Tip=Mass Teleport (|cffffcc00O|r)
-Hotkey=O
+Tip=Mass Teleport (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Mass Teleport (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -570,15 +570,15 @@ Awakentip=Revive Mountain King (|cffffcc00Y|r)
 
 // Storm Bolt
 [AHtb]
-Tip=Storm Bolt (|cffffcc00B|r) - [|cffffcc00Level 1|r],Storm Bolt (|cffffcc00B|r) - [|cffffcc00Level 2|r],Storm Bolt (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Storm Bolt (|cffffcc00À|r) - [|cffffcc00Level 1|r],Storm Bolt (|cffffcc00À|r) - [|cffffcc00Level 2|r],Storm Bolt (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Storm Bolt (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Thunder Clap
 [AHtc]
-Tip=Thunder Clap (|cffffcc00É|r) - [|cffffcc00Level 1|r],Thunder Clap (|cffffcc00É|r) - [|cffffcc00Level 2|r],Thunder Clap (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Thunder Clap (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Thunder Clap (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Thunder Clap (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Thunder Clap (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -590,9 +590,9 @@ Researchhotkey=P
 
 // Avatar
 [AHav]
-Tip=Activate Avatar (|cffffcc00O|r)
+Tip=Activate Avatar (|cffffcc00.|r)
 Untip=Deactivate Avatar (|cffffcc00O|r)
-Hotkey=O
+Hotkey=190
 Unhotkey=O
 Researchtip=Learn Avatar (|cffffcc00O|r)
 Researchhotkey=O
@@ -981,8 +981,8 @@ Awakentip=Revive Blademaster (|cffffcc00À|r)
 
 // Wind Walk
 [AOwk]
-Tip=Wind Walk (|cffffcc00B|r) - [|cffffcc00Level 1|r],Wind Walk (|cffffcc00B|r) - [|cffffcc00Level 2|r],Wind Walk (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Wind Walk (|cffffcc00À|r) - [|cffffcc00Level 1|r],Wind Walk (|cffffcc00À|r) - [|cffffcc00Level 2|r],Wind Walk (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Wind Walk (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -994,15 +994,15 @@ Researchhotkey=P
 
 // Mirror Image
 [AOmi]
-Tip=Mirror Image (|cffffcc00É|r) - [|cffffcc00Level 1|r],Mirror Image (|cffffcc00É|r) - [|cffffcc00Level 2|r],Mirror Image (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Mirror Image (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Mirror Image (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Mirror Image (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Mirror Image (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Bladestorm
 [AOww]
-Tip=Bladestorm (|cffffcc00O|r)
-Hotkey=O
+Tip=Bladestorm (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Bladestorm (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -1014,15 +1014,15 @@ Awakentip=Revive Far Seer (|cffffcc00Y|r)
 
 // Chain Lightning
 [AOcl]
-Tip=Chain Lightning (|cffffcc00B|r) - [|cffffcc00Level 1|r],Chain Lightning (|cffffcc00B|r) - [|cffffcc00Level 2|r],Chain Lightning (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Chain Lightning (|cffffcc00À|r) - [|cffffcc00Level 1|r],Chain Lightning (|cffffcc00À|r) - [|cffffcc00Level 2|r],Chain Lightning (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Chain Lightning (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Far Sight
 [AOfs]
-Tip=Far Sight (|cffffcc00É|r) - [|cffffcc00Level 1|r],Far Sight (|cffffcc00É|r) - [|cffffcc00Level 2|r],Far Sight (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Far Sight (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Far Sight (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Far Sight (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Far Sight (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -1035,8 +1035,8 @@ Researchhotkey=P
 
 // Earthquake
 [AOeq]
-Tip=Earthquake (|cffffcc00O|r)
-Hotkey=O
+Tip=Earthquake (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Earthquake (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -1048,8 +1048,8 @@ Awakentip=Revive Shadow Hunter (|cffffcc00A|r)
 
 // Healing Wave
 [AOhw]
-Tip=Heraling Wave (|cffffcc00B|r) - [|cffffcc00Level 1|r],Heraling Wave (|cffffcc00B|r) - [|cffffcc00Level 2|r],Heraling Wave (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Heraling Wave (|cffffcc00À|r) - [|cffffcc00Level 1|r],Heraling Wave (|cffffcc00À|r) - [|cffffcc00Level 2|r],Heraling Wave (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Heraling Wave (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -1062,15 +1062,15 @@ Researchhotkey=P
 
 // Hex
 [AOhx]
-Tip=Hex (|cffffcc00É|r) - [|cffffcc00Level 1|r],Hex (|cffffcc00É|r) - [|cffffcc00Level 2|r],Hex (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Hex (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Hex (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Hex (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Hex (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Voodoo
 [AOvd]
-Tip=Big Bad Voodoo (|cffffcc00O|r)
-Hotkey=O
+Tip=Big Bad Voodoo (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Big Bad Voodoo (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -1083,8 +1083,8 @@ Awakentip=Revive Tauren Chieftain (|cffffcc00X|r)
 
 // Shockwave
 [AOsh]
-Tip=Shockwave (|cffffcc00B|r) - [|cffffcc00Level 1|r],Shockwave (|cffffcc00B|r) - [|cffffcc00Level 2|r],Shockwave (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Shockwave (|cffffcc00À|r) - [|cffffcc00Level 1|r],Shockwave (|cffffcc00À|r) - [|cffffcc00Level 2|r],Shockwave (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Shockwave (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -1096,14 +1096,14 @@ Researchhotkey=P
 
 // War Stomp (Chieftan)
 [AOws]
-Tip=War Stomp (|cffffcc00É|r) - [|cffffcc00Level 1|r],War Stomp (|cffffcc00É|r) - [|cffffcc00Level 2|r],War Stomp (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=War Stomp (|cffffcc00Y|r) - [|cffffcc00Level 1|r],War Stomp (|cffffcc00Y|r) - [|cffffcc00Level 2|r],War Stomp (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Researchtip="Learn War Stomp (|cffffcc00É|r) - [|cffffcc00Level %d|r]."
-Hotkey=222
+Hotkey=Y
 Researchhotkey=222
 
 // Reincarnation
 [AOre]
-Tip=Reincarnation (|cffffcc00O|r)
+Tip=Reincarnation (|cffffcc00.|r)
 Researchtip=Learn Reincarnation (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -1525,15 +1525,15 @@ Awakentip=Revive Demon Hunter (|cffffcc00À|r)
 
 // Mana Burn
 [AEmb]
-Tip=Mana Burn (|cffffcc00B|r) - [|cffffcc00Level 1|r],Mana Burn (|cffffcc00B|r) - [|cffffcc00Level 2|r],Mana Burn (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Mana Burn (|cffffcc00À|r) - [|cffffcc00Level 1|r],Mana Burn (|cffffcc00À|r) - [|cffffcc00Level 2|r],Mana Burn (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Mana Burn (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Immolation
 [AEim]
-Tip=Activate Immolation (|cffffcc00É|r) - [|cffffcc00Level 1|r],Activate Immolation (|cffffcc00É|r) - [|cffffcc00Level 2|r],Activate Immolation (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Activate Immolation (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Activate Immolation (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Activate Immolation (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Untip=Deactivate Immolation (|cffffcc00É|r)
 Unhotkey=222
 Researchtip="Learn Immolation (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
@@ -1547,8 +1547,8 @@ Researchhotkey=P
 
 // Metamorphosis
 [AEme]
-Tip=Metamorphosis (|cffffcc00O|r)
-Hotkey=O
+Tip=Metamorphosis (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Metamorphosis (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -1561,15 +1561,15 @@ Awakentip=Revive Keeper of the Grove (|cffffcc00Y|r)
 
 // Entangling Roots
 [AEer]
-Tip=Entangling Roots (|cffffcc00B|r) - [|cffffcc00Level 1|r],Entangling Roots (|cffffcc00B|r) - [|cffffcc00Level 2|r],Entangling Roots (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Entangling Roots (|cffffcc00À|r) - [|cffffcc00Level 1|r],Entangling Roots (|cffffcc00À|r) - [|cffffcc00Level 2|r],Entangling Roots (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Entangling Roots (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Force of Nature
 [AEfn]
-Tip=Force of Nature (|cffffcc00É|r) - [|cffffcc00Level 1|r],Force of Nature (|cffffcc00É|r) - [|cffffcc00Level 2|r],Force of Nature (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Force of Nature (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Force of Nature (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Force of Nature (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Force of Nature (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -1581,8 +1581,8 @@ Researchhotkey=P
 
 // Tranquility
 [AEtq]
-Tip=Tranquility (|cffffcc00O|r)
-Hotkey=O
+Tip=Tranquility (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Tranquility (|cffffcc00O|r) "
 Researchhotkey=O
 
@@ -1595,16 +1595,16 @@ Awakentip=Revive Priestess of the Moon (|cffffcc00X|r)
 
 // Scout
 [AEst]
-Tip=Scout (|cffffcc00B|r) - [|cffffcc00Level 1|r],Scout (|cffffcc00B|r) - [|cffffcc00Level 2|r],Scout (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Scout (|cffffcc00À|r) - [|cffffcc00Level 1|r],Scout (|cffffcc00À|r) - [|cffffcc00Level 2|r],Scout (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Scout (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Searing Arrows
 [AHfa]
-Tip=Searing Arrows (|cffffcc00É|r) - [|cffffcc00Level 1|r],Searing Arrows (|cffffcc00É|r) - [|cffffcc00Level 2|r],Searing Arrows (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=Searing Arrows (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Searing Arrows (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Searing Arrows (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=222
+Hotkey=Y
 Unhotkey=222
 Researchtip="Learn Searing Arrows (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
@@ -1618,7 +1618,7 @@ Researchhotkey=P
 // Starfall
 [AEsf]
 Tip=Starfall
-Hotkey=O
+Hotkey=190
 Researchtip=Learn Starfall (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -1631,15 +1631,15 @@ Awakentip=Revive Warden (|cffffcc00A|r)
 
 // Blink
 [AEbl]
-Tip=Blink (|cffffcc00É|r) - [|cffffcc00Level 1|r],Blink (|cffffcc00É|r) - [|cffffcc00Level 2|r],Blink (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Blink (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Blink (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Blink (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Blink (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Fan of Knives
 [AEfk]
-Tip=Fan of Knives (|cffffcc00B|r) - [|cffffcc00Level 1|r],Fan of Knives (|cffffcc00B|r) - [|cffffcc00Level 2|r],Fan of Knives (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Fan of Knives (|cffffcc00À|r) - [|cffffcc00Level 1|r],Fan of Knives (|cffffcc00À|r) - [|cffffcc00Level 2|r],Fan of Knives (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Fan of Knives (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -1653,8 +1653,8 @@ Researchhotkey=P
 
 // Avatar of Vengeance
 [AEsv]
-Tip=Vengeance (|cffffcc00O|r)
-Hotkey=O
+Tip=Vengeance (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Vengeance (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2052,8 +2052,8 @@ Awakentip=Revive Crypt Lord (|cffffcc00A|r)
 
 // Impale
 [AUim]
-Tip=Impale (|cffffcc00B|r) - [|cffffcc00Level 1|r],Impale (|cffffcc00B|r) - [|cffffcc00Level 2|r],Impale (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Impale (|cffffcc00À|r) - [|cffffcc00Level 1|r],Impale (|cffffcc00À|r) - [|cffffcc00Level 2|r],Impale (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Impale (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -2087,8 +2087,8 @@ Unhotkey=222
 
 // Locust Swarm
 [AUls]
-Tip=Locust Swarm (|cffffcc00O|r)
-Hotkey=O
+Tip=Locust Swarm (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Locust Swarm (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2101,28 +2101,28 @@ Hotkey=220
 
 // Death Coil
 [AUdc]
-Tip=Death Coil (|cffffcc00B|r) - [|cffffcc00Level 1|r],Death Coil (|cffffcc00B|r) - [|cffffcc00Level 2|r],Death Coil (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Death Coil (|cffffcc00À|r) - [|cffffcc00Level 1|r],Death Coil (|cffffcc00À|r) - [|cffffcc00Level 2|r],Death Coil (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Death Coil (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Unholy Aura
 [AUau]
-Tip=Unholy Aura (|cffffcc00P|r) - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Tip=Unholy Aura (|cffffcc00X|r) - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
 Researchtip="Learn Unholy Aura (|cffffcc00P|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=P
 
 // Death Pact
 [AUdp]
-Tip=Death Pact (|cffffcc00É|r) - [|cffffcc00Level 1|r],Death Pact (|cffffcc00É|r) - [|cffffcc00Level 2|r],Death Pact (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Death Pact (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Death Pact (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Death Pact (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Death Pact (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Animate Dead
 [AUan]
-Tip=Animate Dread (|cffffcc00O|r)
-Hotkey=O
+Tip=Animate Dread (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Animate Dread (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2135,15 +2135,15 @@ Hotkey=Y
 
 // Carrion Swarm
 [AUcs]
-Tip=Carrion Swarm (|cffffcc00B|r) - [|cffffcc00Level 1|r],Carrion Swarm (|cffffcc00B|r) - [|cffffcc00Level 2|r],Carrion Swarm (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Carrion Swarm (|cffffcc00À|r) - [|cffffcc00Level 1|r],Carrion Swarm (|cffffcc00À|r) - [|cffffcc00Level 2|r],Carrion Swarm (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Carrion Swarm (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Sleep
 [AUsl]
-Tip=Sleep (|cffffcc00É|r) - [|cffffcc00Level 1|r],Sleep (|cffffcc00É|r) - [|cffffcc00Level 2|r],Sleep (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Sleep (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Sleep (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Sleep (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Sleep (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -2155,8 +2155,8 @@ Researchhotkey=P
 
 //inferno
 [AUin]
-Tip=Inferno (|cffffcc00O|r)
-Hotkey=O
+Tip=Inferno (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Inferno (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -2169,16 +2169,16 @@ Hotkey=X
 
 // Frost Nova
 [AUfn]
-Tip=Frost Nova (|cffffcc00B|r) - [|cffffcc00Level 1|r],Frost Nova (|cffffcc00B|r) - [|cffffcc00Level 2|r],Frost Nova (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Frost Nova (|cffffcc00À|r) - [|cffffcc00Level 1|r],Frost Nova (|cffffcc00À|r) - [|cffffcc00Level 2|r],Frost Nova (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Frost Nova (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Frost Armor (Autocast, Lich)
 [AUfu]
-Tip=Frost Armor (|cffffcc00É|r) - [|cffffcc00Level 1|r],Frost Armor (|cffffcc00É|r) - [|cffffcc00Level 2|r],Frost Armor (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=Frost Armor (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Frost Armor (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Frost Armor (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting."
-Hotkey=222
+Hotkey=Y
 Researchtip="Learn Frost Armor (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -2191,8 +2191,8 @@ Researchhotkey=P
 
 // Death And Decay
 [AUdd]
-Tip=Death And Decay (|cffffcc00O|r)
-Hotkey=O
+Tip=Death And Decay (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Death And Decay (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2225,24 +2225,24 @@ Researchhotkey=P
 
 // Forked Lightning (Sea Witch)
 [ANfl]
-Tip=Forked Lightning (|cffffcc00B|r) - [|cffffcc00Level 1|r],Forked Lightning (|cffffcc00B|r) - [|cffffcc00Level 2|r],Forked Lightning (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Forked Lightning (|cffffcc00À|r) - [|cffffcc00Level 1|r],Forked Lightning (|cffffcc00À|r) - [|cffffcc00Level 2|r],Forked Lightning (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Forked Lightning (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Frost Arrows (Sea Witch)
 [ANfa]
-Tip=Frost Arrows (|cffffcc00É|r) - [|cffffcc00Level 1|r],Frost Arrows (|cffffcc00É|r) - [|cffffcc00Level 2|r],Frost Arrows (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=Frost Arrows (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Frost Arrows (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Frost Arrows (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=222
+Hotkey=Y
 Unhotkey=222
 Researchtip="Learn Frost Arrows (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Tornado (Sea Witch)
 [ANto]
-Tip=Tornado (|cffffcc00O|r)
-Hotkey=O
+Tip=Tornado (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Tornado (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2259,15 +2259,15 @@ Awakentip=Revive Pit Lord (|cffffcc00À|r)
 
 // Howl of Terror (Pit Lord)
 [ANht]
-Tip=Howl of Terror (|cffffcc00É|r) - [|cffffcc00Level 1|r],Howl of Terror (|cffffcc00É|r) - [|cffffcc00Level 2|r],Howl of Terror (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Howl of Terror (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Howl of Terror (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Howl of Terror (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Howl of Terror (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Rain of Fire (Pit Lord)
 [ANrf]
-Tip=Rain of Fire (|cffffcc00B|r) - [|cffffcc00Level 1|r],Rain of Fire (|cffffcc00B|r) - [|cffffcc00Level 2|r],Rain of Fire (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Rain of Fire (|cffffcc00À|r) - [|cffffcc00Level 1|r],Rain of Fire (|cffffcc00À|r) - [|cffffcc00Level 2|r],Rain of Fire (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip=Learn Rain of Fire (|cffffcc00B|r) - [|cffffcc00Level %d|r]
 Researchhotkey=B
 
@@ -2279,8 +2279,8 @@ Researchhotkey=P
 
 // Doom (Pit Lord)
 [ANdo]
-Tip=Doom (|cffffcc00O|r)
-Hotkey=O
+Tip=Doom (|cffffcc00.|r)
+Hotkey=190
 Researchtip="Learn Doom (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2317,8 +2317,8 @@ Awakentip=Revive Pandaren Brewmaster (|cffffcc00I|r)
 
 // Breath of Fire (Pandaren Brewmaster)
 [ANbf]
-Tip=Breath of Fire (|cffffcc00B|r) - [|cffffcc00Level 1|r],Breath of Fire (|cffffcc00B|r) - [|cffffcc00Level 2|r],Breath of Fire (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Breath of Fire (|cffffcc00À|r) - [|cffffcc00Level 1|r],Breath of Fire (|cffffcc00À|r) - [|cffffcc00Level 2|r],Breath of Fire (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Breath of Fire (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -2330,15 +2330,15 @@ Researchhotkey=P
 
 // Drunken Haze (Pandaren Brewmaster)
 [ANdh]
-Tip=Drunken Haze (|cffffcc00É|r) - [|cffffcc00Level 1|r],Drunken Haze (|cffffcc00É|r) - [|cffffcc00Level 2|r],Drunken Haze (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Drunken Haze (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Drunken Haze (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Drunken Haze (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Drunken Haze (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Storm, Earth, and Fire (Pandaren Brewmaster)
 [ANef]
-Tip="Storm, Earth, And Fire (|cffffcc00O|r)"
-Hotkey=O
+Tip="Storm, Earth, And Fire (|cffffcc00.|r)"
+Hotkey=190
 Researchtip="Learn Storm, Earth, And Fire (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2381,15 +2381,15 @@ Awakentip=Revive Beastmaster (|cffffcc00Y|r)
 
 // Summon Bear (Beastmaster)
 [ANsg]
-Tip=Summon Bear (|cffffcc00B|r) - [|cffffcc00Level 1|r],Summon Bear (|cffffcc00B|r) - [|cffffcc00Level 2|r],Summon Bear (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Summon Bear (|cffffcc00À|r) - [|cffffcc00Level 1|r],Summon Bear (|cffffcc00À|r) - [|cffffcc00Level 2|r],Summon Bear (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip=Learn Summon Bear (|cffffcc00B|r) - [|cffffcc00Level %d|r]
 Researchhotkey=B
 
 // Summon Quilbeast (Beastmaster)
 [ANsq]
-Tip=Summon Quilbeast (|cffffcc00É|r) - [|cffffcc00Level 1|r],Summon Quilbeast (|cffffcc00É|r) - [|cffffcc00Level 2|r],Summon Quilbeast (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Summon Quilbeast (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Summon Quilbeast (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Summon Quilbeast (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip=Learn Summon Quilbeast (|cffffcc00É|r) - [|cffffcc00Level %d|r]
 Researchhotkey=222
 
@@ -2402,8 +2402,8 @@ Researchhotkey=P
 
 // Stampede (Beastmaster)
 [ANst]
-Tip=Stampede (|cffffcc00O|r)
-Hotkey=O
+Tip=Stampede (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Stampede (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -2431,16 +2431,16 @@ Awakentip=Revive Dark Ranger (|cffffcc00U|r)
 
 // Black Arrow (Dark Ranger)
 [ANba]
-Tip=Black Arrow (|cffffcc00É|r) - [|cffffcc00Level 1|r],Black Arrow (|cffffcc00É|r) - [|cffffcc00Level 2|r],Black Arrow (|cffffcc00É|r) - [|cffffcc00Level 3|r]
+Tip=Black Arrow (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Black Arrow (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Black Arrow (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=222
+Hotkey=Y
 Researchtip="Learn Black Arrow (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Silence (Dark Ranger)
 [ANsi]
-Tip=Silence (|cffffcc00B|r) - [|cffffcc00Level 1|r],Silence (|cffffcc00B|r) - [|cffffcc00Level 2|r],Silence (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Silence (|cffffcc00À|r) - [|cffffcc00Level 1|r],Silence (|cffffcc00À|r) - [|cffffcc00Level 2|r],Silence (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Silence (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -2453,8 +2453,8 @@ Researchhotkey=P
 
 // Charm (Dark Ranger)
 [ANch]
-Tip=Charm (|cffffcc00O|r)
-Hotkey=O
+Tip=Charm (|cffffcc00.|r)
+Hotkey=190
 Researchtip=Learn Charm (|cffffcc00O|r)
 Researchhotkey=O
 
@@ -2479,57 +2479,57 @@ Awakentip=Revive Tinker (|cffffcc00X|r)
 
 // Pocket Factory
 [ANsy]
-Tip=Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Pocket Factory
 [ANs1]
-Tip=Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Pocket Factory
 [ANs2]
-Tip=Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Pocket Factory
 [ANs3]
-Tip=Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 1|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 2|r],Pocket Factory (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Pocket Factory (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Cluster Rockets
 [ANcs]
-Tip=Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Cluster Rockets
 [ANc1]
-Tip=Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Cluster Rockets
 [ANc2]
-Tip=Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Cluster Rockets
 [ANc3]
-Tip=Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Cluster Rockets (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Cluster Rockets (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
@@ -2542,8 +2542,8 @@ Researchhotkey=P
 
 // Robo-Goblin
 [ANrg]
-Tip="Robo-Goblin (|cffffcc00O|r)"
-Hotkey=O
+Tip="Robo-Goblin (|cffffcc00.|r)"
+Hotkey=190
 Untip="Revert to Tinker Form (|cffffcc00O|r)"
 Unhotkey=O
 Researchtip="Learn Robo-Goblin (|cffffcc00O|r)"
@@ -2551,8 +2551,8 @@ Researchhotkey=O
 
 // Robo-Goblin
 [ANg1]
-Tip="Robo-Goblin (|cffffcc00O|r)"
-Hotkey=O
+Tip="Robo-Goblin (|cffffcc00.|r)"
+Hotkey=190
 Untip="Revert to Tinker Form (|cffffcc00O|r)"
 Unhotkey=O
 Researchtip="Learn Robo-Goblin (|cffffcc00O|r)"
@@ -2560,8 +2560,8 @@ Researchhotkey=O
 
 // Robo-Goblin
 [ANg2]
-Tip="Robo-Goblin (|cffffcc00O|r)"
-Hotkey=O
+Tip="Robo-Goblin (|cffffcc00.|r)"
+Hotkey=190
 Untip="Revert to Tinker Form (|cffffcc00O|r)"
 Unhotkey=O
 Researchtip="Learn Robo-Goblin (|cffffcc00O|r)"
@@ -2569,8 +2569,8 @@ Researchhotkey=O
 
 // Robo-Goblin
 [ANg3]
-Tip="Robo-Goblin (|cffffcc00O|r)"
-Hotkey=O
+Tip="Robo-Goblin (|cffffcc00.|r)"
+Hotkey=190
 Untip="Revert to Tinker Form (|cffffcc00O|r)"
 Unhotkey=O
 Researchtip="Learn Robo-Goblin (|cffffcc00O|r)"
@@ -2665,8 +2665,8 @@ Awakentip=Revive Alchemist (|cffffcc00.|r)
 
 // Healing Spray
 [ANhs]
-Tip=Healing Spray (|cffffcc00B|r) - [|cffffcc00Level 1|r],Healing Spray (|cffffcc00B|r) - [|cffffcc00Level 2|r],Healing Spray (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Healing Spray (|cffffcc00À|r) - [|cffffcc00Level 1|r],Healing Spray (|cffffcc00À|r) - [|cffffcc00Level 2|r],Healing Spray (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Healing Spray (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
@@ -2679,15 +2679,15 @@ Researchhotkey=P
 
 // Chemical Rage
 [ANcr]
-Tip=Chemical Rage (|cffffcc00É|r) - [|cffffcc00Level 1|r],Chemical Rage (|cffffcc00É|r) - [|cffffcc00Level 2|r],Chemical Rage (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Chemical Rage (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Chemical Rage (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Chemical Rage (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Chemical Rage (|cffffcc00É|r) - [|cffffcc00Level %d|r]""
 Researchhotkey=222
 
 // Transmute
 [ANtm]
-Tip="Transmute (|cffffcc00O|r)"
-Hotkey=O
+Tip="Transmute (|cffffcc00.|r)"
+Hotkey=190
 Researchtip="Learn Transmute (|cffffcc00O|r)"
 Researchhotkey=O
 
@@ -2718,22 +2718,22 @@ Researchhotkey=P
 
 // Soul Burn
 [ANso]
-Tip=Soul Burn (|cffffcc00B|r) - [|cffffcc00Level 1|r],Soul Burn (|cffffcc00B|r) - [|cffffcc00Level 2|r],Soul Burn (|cffffcc00B|r) - [|cffffcc00Level 3|r]
-Hotkey=B
+Tip=Soul Burn (|cffffcc00À|r) - [|cffffcc00Level 1|r],Soul Burn (|cffffcc00À|r) - [|cffffcc00Level 2|r],Soul Burn (|cffffcc00À|r) - [|cffffcc00Level 3|r]
+Hotkey=220
 Researchtip="Learn Soul Burn (|cffffcc00B|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
 // Summmon Lava Spawn
 [ANlm]
-Tip=Summon Lava Spawn (|cffffcc00É|r) - [|cffffcc00Level 1|r],Summon Lava Spawn (|cffffcc00É|r) - [|cffffcc00Level 2|r],Summon Lava Spawn (|cffffcc00É|r) - [|cffffcc00Level 3|r]
-Hotkey=222
+Tip=Summon Lava Spawn (|cffffcc00Y|r) - [|cffffcc00Level 1|r],Summon Lava Spawn (|cffffcc00Y|r) - [|cffffcc00Level 2|r],Summon Lava Spawn (|cffffcc00Y|r) - [|cffffcc00Level 3|r]
+Hotkey=Y
 Researchtip="Learn Summon Lava Spawn (|cffffcc00É|r) - [|cffffcc00Level %d|r]"
 Researchhotkey=222
 
 // Volcano
 [ANvc]
-Tip="Volcano (|cffffcc00O|r)"
-Hotkey=O
+Tip="Volcano (|cffffcc00.|r)"
+Hotkey=190
 Researchtip="Learn Volcano (|cffffcc00O|r)"
 Researchhotkey=O
 
